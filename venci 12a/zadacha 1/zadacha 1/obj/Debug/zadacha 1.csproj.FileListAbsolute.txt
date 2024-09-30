@@ -1,0 +1,10 @@
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\bin\Debug\zadacha 1.exe.config
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\bin\Debug\zadacha 1.exe
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\bin\Debug\zadacha 1.pdb
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha 1.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha_1.Form1.resources
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha_1.Properties.Resources.resources
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha 1.csproj.GenerateResource.cache
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha 1.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha 1.exe
+C:\Users\1409-10\Desktop\venci 12a\zadacha 1\zadacha 1\obj\Debug\zadacha 1.pdb
